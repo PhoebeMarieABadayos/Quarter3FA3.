@@ -1,0 +1,63 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    font-size: 25px;
+    background: #ffffff;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    color: #ffffff;
+
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    color: #ffffff;
+
+}
+
+#order {
+    font-size: 25px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 20px;
+    width: 60%;
+    margin: 20px auto;
+    text-align: justify;
+    text-align-last: center;
+    line-height: 1.8;
+    color: #6a1b4d;
+    font-weight: bold;
+	font: 'Poppins', sans-serif;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+button {
+    background-color: #641111;
+    color: white;
+    padding: 12px 25px;
+    font-size: 18px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.3s ease;
+    box-shadow: 3px 3px 10px rgba(255, 105, 180, 0.3);
+}
+
+button:hover {
+    background-color: #ca3030;
+    transform: scale(1.05);
+}
+
+body {
+    background-image: url("PIZZZZZZZZZZZZZZZZZZA.png");
+    background-size: 220%;
+    background-repeat: no-repeat;
+    background-position: center;    
+}
